@@ -40,7 +40,7 @@ para recolectar informacion de los usuarios, el formulario se construye atras ve
 ## ⚒️ Build With <a name="built-with"></a>
 
 <p>
-En este proyecto se utilizo la siguientes tecnologias:
+En este proyecto se utilizo la siguientes tecnologías:
 html, javascript, css, webpack, azure, git, github
 </p>
 
@@ -118,7 +118,7 @@ Las herramientas que se necesita para poder ejecutar el proyecto son:
 
 ### Setup
 
-Clonar este repository en la carpeta que deseas:
+Clonar este repositorio en la carpeta que deseas:
 
 ```sh
 cd form-linterns
