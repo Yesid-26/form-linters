@@ -156,8 +156,17 @@ Para correr el proyecto ejecute el siguiente comando:
 
 Para ejecutar la prueba, ejecute el siguiente comando o punto final
 
-```sh
-npm run test
+```
+Eslint
+npx eslint
+npx eslint . --fix
+
+```
+```
+Stylelint
+npx stylelint "**/*.css"
+npx stylelint "**/*.css" --fix
+
 ```
 
 
